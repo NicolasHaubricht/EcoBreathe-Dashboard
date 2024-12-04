@@ -1,6 +1,6 @@
 # Projeto EcoBreathe | Dashboard
 
-Este projeto é um sistema de visualização de dados coletados por um microcontrolador **ESP32** e sensores **DHT22** conectados a uma Máquina Virtual. Ele permite monitorar e analisar informações de **temperatura** e **umidade** em tempo real, exibindo gráficos interativos e informativos.
+Este projeto é um sistema de visualização de dados históricos coletados por um microcontrolador **ESP32** e sensores **DHT22** conectados a uma Máquina Virtual. Ele permite monitorar e analisar informações de **temperatura** e **umidade** em tempo real, exibindo gráficos interativos e informativos.
 
 ---
 
@@ -14,7 +14,7 @@ Este projeto é um sistema de visualização de dados coletados por um microcont
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem**: Python 3.x
+- **Linguagem**: Python
 - **Bibliotecas**:
   - [`requests`](https://pypi.org/project/requests/): Para consumo de APIs RESTful.
   - [`matplotlib`](https://matplotlib.org/): Para criar gráficos dinâmicos e visuais.
@@ -24,7 +24,7 @@ Este projeto é um sistema de visualização de dados coletados por um microcont
 
 ## 🚀 Pré-requisitos
 
-1. **Python 3.x** instalado na sua máquina.  
+1. **Python** instalado na sua máquina.  
    Caso não tenha instalado, siga as instruções no site oficial: [Python.org](https://www.python.org/).
 
 2. Instale as bibliotecas necessárias:
