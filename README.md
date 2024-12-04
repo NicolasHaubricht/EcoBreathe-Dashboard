@@ -85,3 +85,5 @@ Digite 'temperature' para visualizar o gráfico de temperatura ou 'humidity' par
   ![Captura de tela 2024-11-30 122329](https://github.com/user-attachments/assets/36db048c-acf6-40a4-aa86-22a881bd12a6)
 
 </div>
+
+### Desenvolvido por Nicolas Haubricht Hainfellner  
