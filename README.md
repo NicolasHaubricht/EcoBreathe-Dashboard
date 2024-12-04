@@ -86,4 +86,9 @@ Digite 'temperature' para visualizar o gráfico de temperatura ou 'humidity' par
 
 </div>
 
+## 🌱 Outros Repositórios do Projeto EcoBreathe
+- Repositório WebSite: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Web-Site'>Link</a>
+- Repositório IoT: <a href='https://github.com/NicolasHaubricht/EcoBreathe-IoT'>Link</a>
+- Repositório Dados Simulados: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Dados-Simulados'>Link</a>
+
 ### Desenvolvido por Nicolas Haubricht Hainfellner  
